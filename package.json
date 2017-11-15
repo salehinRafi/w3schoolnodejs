@@ -1,0 +1,23 @@
+{
+  "name": "w3schoolnodejs",
+  "version": "1.0.0",
+  "description": "Self Learn Node.js On W3School.com",
+  "main": "10_mysqlConn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salehinRafi/w3schoolnodejs.git"
+  },
+  "author": "Salehin Rafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salehinRafi/w3schoolnodejs/issues"
+  },
+  "homepage": "https://github.com/salehinRafi/w3schoolnodejs#readme",
+  "dependencies": {
+    "mysql": "github:felixge/node-mysql",
+    "nodemailer": "^4.4.0"
+  }
+}
