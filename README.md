@@ -11,4 +11,4 @@ A beginner sample code by following the tutorial on w3school.
 
 ## Acknowledgments
 
-* [Node.js w3school] (https://www.w3schools.com/nodejs/default.asp)
+* [Node.js w3school](https://www.w3schools.com/nodejs/default.asp)
